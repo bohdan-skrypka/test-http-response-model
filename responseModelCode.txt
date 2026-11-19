@@ -1,0 +1,17 @@
+public enum CurrencyFlag
+{
+	USD_T = 0,
+	EURO_T = 1,
+}
+
+public record DayData (uint Positins, decimal Money, CurrecyFlag Currency)
+
+public class ResponseModel
+{
+	public HttpStatusCode HttpRequestStatus {get; set;}
+	public Dictionay <DateTime, DayData> DataRecords = new <DateTime, DayData>();
+	
+	// another implementation if we need to have grouped few day-records by the same day
+	//public Dictionay <DateTime, LinkedList<DayData>> DataRecords = new <DateTime, LinkedList<DayData>>();
+	// additional sections that we need
+}
