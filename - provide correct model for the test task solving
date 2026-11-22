@@ -1,0 +1,21 @@
+# test-http-response-model
+Reruirements of the test-task: given a picture with simple Front-end interface, you need to return everything displayed from back-end in one request. The picture may be the subject of copyright so the image not copied - added only personal materials created by me. 
+==========
+
+[NEVER_USE_IN_PROD_THAT_TECHNIQUE] Simple algorithmical test task for gathering the "God-Object" and getting everything in one request. *Added  few cases to overview them.
+[USE_INSTEAD_IN_PROD_TECHNIQUE] => Adopt "Result_Patter" according to your needs. https://milanjovanovic.tech/blog/functional-error-handling-in-dotnet-with-the-result-pattern
+=
+
+Author(me): Bohdan Skrypka
+Email: skripkabodya@gmail.com
+Time on the project: (didn't count)
+
+==========
+Description what in that folder you can see.
+
+1. Response model design - on the picture you can see analyzed data-structure requirements and few thought on it.
+2. responseModelCode.txt file - including C# implementation for the requirements.
+==========
+
+Date: 19.11.2026
+Author: Bohdan S.
