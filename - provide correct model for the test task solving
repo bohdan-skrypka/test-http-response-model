@@ -1,5 +1,6 @@
 # test-http-response-model
-Reruirements of the test-task: given a picture with simple Front-end interface, you need to return everything displayed from back-end in one request. The picture may be the subject of copyright so the image not copied - added only personal materials created by me. 
+Reruirements of the test-task: given a picture with simple Front-end interface, you need to return everything displayed from back-end in one request. 
+The picture may be the subject of copyright so the image not copied inhere. Only personal materials created by me you can see added or overviewed. 
 ==========
 
 [NEVER_USE_IN_PROD_THAT_TECHNIQUE] Simple algorithmical test task for gathering the "God-Object" and getting everything in one request. *Added  few cases to overview them.
